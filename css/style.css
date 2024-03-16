@@ -1,0 +1,32 @@
+body {
+  background-image: url(https://img.freepik.com/foto-gratis/fondo-abstracto-textura_1258-30489.jpg);
+}
+header {
+  color: antiquewhite;
+  background-image: url(https://media.istockphoto.com/id/1336271758/es/foto/programaci%C3%B3n-de-c%C3%B3digo-fuente-en-pantalla-digital-desarrollador-de-software-y-lenguaje-html-de.webp?b=1&s=170667a&w=0&k=20&c=C5qfDnFt5OroF7twuVV2oNjp3PnVQsbfz7FiK-iEEQg=);
+  padding: 30px;
+  object-fit: cover;
+  text-align: center;
+}
+h2{
+    color: antiquewhite;
+    padding: 20px;
+   
+}
+td {
+  text-align: center;
+   font-family: arial;
+  border-radius: 15%;
+   background-color: #69acd5;
+}
+h3{
+    color: antiquewhite;
+}
+p{
+   color: antiquewhite;
+  
+}
+img{
+    width: 30%;
+    height: 10%;
+}
